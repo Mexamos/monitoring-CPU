@@ -1,0 +1,30 @@
+Date: Чт май 14 09:47:01 MSK 2020. CPU Current Usage is: 1.02%
+Date: Чт май 14 09:48:01 MSK 2020. CPU Current Usage is: 1.42%
+Date: Чт май 14 09:49:01 MSK 2020. CPU Current Usage is: 0.83%
+Date: Чт май 14 09:50:01 MSK 2020. CPU Current Usage is: 1.52%
+Date: Чт май 14 09:51:01 MSK 2020. CPU Current Usage is: 1.41%
+Date: Чт май 14 09:52:01 MSK 2020. CPU Current Usage is: 0.98%
+Date: Чт май 14 09:53:04 MSK 2020. CPU Current Usage is: 1.02%
+Date: Чт май 14 09:54:04 MSK 2020. CPU Current Usage is: 1.61%
+Date: Чт май 14 09:55:02 MSK 2020. CPU Current Usage is: 1.95%
+Date: Чт май 14 09:56:01 MSK 2020. CPU Current Usage is: 2.56%
+Date: Чт май 14 09:57:01 MSK 2020. CPU Current Usage is: 1.48%
+Date: Чт май 14 09:58:01 MSK 2020. CPU Current Usage is: 1.37%
+Date: Чт май 14 09:59:01 MSK 2020. CPU Current Usage is: 1.10%
+Date: Чт май 14 10:00:01 MSK 2020. CPU Current Usage is: 1.25%
+Date: Чт май 14 10:01:01 MSK 2020. CPU Current Usage is: 2.10%
+Date: Чт май 14 10:02:01 MSK 2020. CPU Current Usage is: 2.12%
+Date: Чт май 14 10:03:01 MSK 2020. CPU Current Usage is: 1.43%
+Date: Чт май 14 10:04:01 MSK 2020. CPU Current Usage is: 2.10%
+Date: Чт май 14 10:05:01 MSK 2020. CPU Current Usage is: 2.39%
+Date: Чт май 14 10:06:01 MSK 2020. CPU Current Usage is: 2.47%
+Date: Чт май 14 10:07:01 MSK 2020. CPU Current Usage is: 2.01%
+Date: Чт май 14 10:08:01 MSK 2020. CPU Current Usage is: 1.24%
+Date: Чт май 14 10:09:01 MSK 2020. CPU Current Usage is: 0.71%
+Date: Чт май 14 10:10:01 MSK 2020. CPU Current Usage is: 0.57%
+Date: Чт май 14 10:11:01 MSK 2020. CPU Current Usage is: 3.72%
+Date: Чт май 14 10:12:01 MSK 2020. CPU Current Usage is: 1.90%
+Date: 2020-05-14 10:13:01. CPU: 1.76%
+Date: 2020-05-14 10:14:01. CPU: 1.73%
+Date: 14.05.2020 10:15:01. CPU: 1.46%
+Date: 14.05.2020 10:16:01. CPU: 1.55%
